@@ -1,3 +1,6 @@
 [submodule "content"]
 	path = content
+	url = https://github.com/odoochain/ob-saltbang-x2.git
+[submodule "content2"]
+	path = content2
 	url = https://github.com/oldwinter/knowledge-garden.git
